@@ -3,4 +3,4 @@ pandas
 xlrd
 openpyxl
 lxml
-pyxlsb
+plotly
